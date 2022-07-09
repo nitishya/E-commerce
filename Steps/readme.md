@@ -6,4 +6,6 @@ Use lombok to reduce the number of lines in code-
 
 <img width="724" alt="image" src="https://user-images.githubusercontent.com/28175329/178091986-202c4d6e-79ab-4b69-bb75-d3a6d00f0e9a.png">
 
+You need to install Lombok manually from this website -https://projectlombok.org/downloads/lombok.jar
+
 
